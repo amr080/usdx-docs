@@ -1,1 +1,1 @@
-# usdx-docs
+# Tokenized Treasuries Docs
